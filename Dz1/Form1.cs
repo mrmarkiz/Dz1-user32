@@ -18,9 +18,6 @@ namespace Dz1
                 case "1":
                     Task1.Run();
                     break;
-                //
-                //ме бхиькн
-                //
                 case "2":
                     Task2.Run();
                     break;
